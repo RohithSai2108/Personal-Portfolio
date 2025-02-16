@@ -1,2 +1,2 @@
 # portfolio
-portfolio webpage code for hosting
+portfolio webpage code for hosting it
